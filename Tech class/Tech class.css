@@ -1,0 +1,257 @@
+body{
+    padding: 0;
+    color: black;
+
+}
+.picimg{
+    width: 500px;
+    float: right;
+}
+.slider{
+padding-top: 100px;
+padding-bottom: 19px;
+padding-left: 12px;
+width: auto;
+padding-right: 12px;
+height: auto;
+color: white;
+overflow: auto;
+background-color: rgb(0, 0, 0);
+}
+.Aboutt{
+    margin-top: 50px;
+    padding: 50px;
+    color: black;
+    clear: right;
+    padding-right: 70px;
+    overflow: auto;
+}
+.About{
+    border-radius: 19px;
+    width: 495px;
+    float: left;
+    margin-right: 40px;
+    align-items: center;
+}
+.pp{
+    margin-top: 85px;
+    margin-left: 20px;
+    color: black;
+    margin-left: 200px;
+    align-items: center;
+}
+.button{
+    color: white;
+    background-image: linear-gradient( #6A11CB, #005BEA);
+    border-radius: 8px;
+    margin-top: 25px;
+    align-items: center;
+    width: 100px;
+    height: 35px;
+    border: none;
+}
+.box {
+    float: left;
+    width: 190px;
+    padding: 50px;
+    border: double;
+    border-radius: 9px;
+    margin: 9px;
+    overflow: auto;
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+    height: 229px;
+    align-items: center;
+  }
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+    padding: 2opx;
+    background-color: rgb(0, 0, 0);
+    overflow: auto;
+    align-content: center;
+  }
+.contactussection{
+    background-image: linear-gradient( #6A11CB, #005BEA);
+    background-size: cover;
+    height: 100%;
+    padding: 50px;
+    overflow: auto;
+}
+.boxx{
+    width: 50%;
+    height: 440px;
+    background-color: #ffffff;
+    margin-left: 25%;
+    border: solid;
+    border-radius: 25px;
+    margin-top: 120px;
+    padding: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.37);
+    
+}
+.ourpriceplan{
+    background-color: #f0f0f0;
+    height: 355px;
+    padding-top: 25px;
+    margin-top: 120px;
+}
+
+div.card {
+    width: 24%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    border-radius: 20px;
+    float: left;
+    margin: 39px;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    margin-left: 6%;
+  }
+  
+  div.header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-image: linear-gradient( #6A11CB, #005BEA);
+  }
+  
+  div.container {
+    padding: 10px;
+    color: #787878;
+  }
+
+  div.polaroid {
+    width: 250px;
+    box-shadow: 0 12px 15px  rgba(0,0,55,55px), 0 10px 3px 0 rgba(0,0,0, 5px);
+    text-align: center;
+    float: left;
+    overflow: auto;
+    margin: 29px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  
+  .containerr {
+    padding: 10px;
+    background-color: azure;
+    margin-top: -12px;
+  }
+  .portfolio{
+    clear: left;
+    background-image: linear-gradient( #6A11CB, #005BEA);   
+    overflow: auto;
+    padding: 25px;
+    margin-top: 25px;
+  }
+  .flex-container{
+    display: flex;
+    background-image: linear-gradient(180deg, #F5F5F5 0%, #FFFFFF 100%);
+    width: 100%;
+    justify-content: center;
+  }
+  .flex-container > div {
+    background-image: linear-gradient(180deg, #F5F5F5 0%, #FFFFFF 100%);
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+  }
+  .flexcontainer{
+    display: flex;
+    background-image: linear-gradient(180deg, #F5F5F5 0%, #FFFFFF 100%);
+    width: 100%;
+    justify-content: center;
+  }
+  .flexcontainer > div{
+    background-image: linear-gradient(180deg, #F5F5F5 0%, #FFFFFF 100%);
+    width: 50%;
+    margin: 10px;
+    padding: 20px;
+    height: 627px;
+  }
+  .flexcont{
+    display: flex;
+    justify-content: center;
+    color: #000000;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .flexcont > div{     
+    width: 79%;     
+    margin: 10px;
+    padding: 10px;
+    background-color: #ffffff;
+    flex-direction: column;
+    box-shadow: 0px 7px 25px 0px rgba(0, 0, 0, 0.09);
+    padding: 28px;
+    border-radius: 12px;
+  }
+  .dd{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .Happy{
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient( #6A11CB, #005BEA);   
+  }
+  .Happy > div{
+    width: 79%;     
+      margin: 10px;
+      padding: 10px;
+    background-color: #ffffff;
+    flex-direction: column;
+    box-shadow: 0px 7px 25px 0px rgba(0, 0, 0, 0.09);
+    padding: 28px;
+    border-radius: 12px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    height: 70px;
+    align-content: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 92px;
+    border-color: #000000;
+    padding: 19px;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: inline-block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 20px;
+  }
+
+  li a:hover {
+    background-image: linear-gradient(
+        90deg,
+        #6a11cb 0%,
+        #005bea 100%
+      );
+      border-radius: 19px;
+      box-shadow: 0px 10px 30px #2e3cff73;
+  }
+
+  .active {
+    background-color: #ffffff;
+   box-shadow: 0 4px 8px 0 rgba(104, 104, 104, 0.2), 0 6px 20px 0 rgba(51, 51, 51, 0.19);
+  }
